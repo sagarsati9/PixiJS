@@ -1,0 +1,17 @@
+{
+  "name": "pixi-dodge-game-(1)",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "howler": "^2.2.4",
+    "pixi.js": "^8.10.1",
+    "vite": "^6.3.5"
+  }
+}
