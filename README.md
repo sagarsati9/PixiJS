@@ -35,4 +35,4 @@ Edit
 npm run dev
 Visit http://localhost:5173 in your browser to play the game locally.
 
-live link at https://pixijs.netlify.aprp
+live link at https://pixijs.netlify.app/
